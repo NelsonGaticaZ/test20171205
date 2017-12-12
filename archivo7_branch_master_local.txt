@@ -1,2 +1,0 @@
-este archivo fue creado en local con el objeto de 
-probar el comando push/pull de git
